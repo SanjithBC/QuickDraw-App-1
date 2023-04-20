@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(4, 62, 212, 0.801);
+}
+
+#score {
+    font-size: 26px;
+    float: left;
+    margin-left: 100px;
+}
+
+#timer {
+    font-size: 26px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketchToDraw {
+    color: rgba(94, 255, 0, 0.825);
+}
