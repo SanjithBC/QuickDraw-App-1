@@ -17,3 +17,8 @@ body {
 #sketchToDraw {
     color: rgba(94, 255, 0, 0.825);
 }
+
+canvas {
+    margin-top: -15px;
+    background-color: white;
+}
